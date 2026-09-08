@@ -2,9 +2,11 @@
 
 Compare two CSV exports by a unique record ID. Find added, removed, changed, and unchanged records, even when rows move.
 
-TwoCSV is in preparation. Checkout is not open yet.
+Try the free browser demo: https://twocsv.wldsaidi.chatgpt.site
 
-The browser demo supports up to 500 records per file. The planned $9 USD offline edition is a single HTML file with support for 50,000 records per file and full CSV/JSON change reports. Both editions require UTF-8 comma-separated files, unique headers, unique record IDs, at most 100 columns and 5 MiB per file. Values are compared as exact text; numbers and dates are not normalized. CSV data stays on your device.
+The offline edition is available for a one-time $9 USD purchase from the site.
+
+The browser demo supports up to 500 records per file. The $9 USD offline edition is a single HTML file with support for 50,000 records per file and full CSV/JSON change reports. Both editions require UTF-8 comma-separated files, unique headers, unique record IDs, at most 100 columns and 5 MiB per file. Values are compared as exact text; numbers and dates are not normalized. CSV data stays on your device.
 
 ## Support
 
